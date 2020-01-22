@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+        <style>
+            h2{
+                background-color:rgb(252, 0, 0);
+            }
+            h1{
+                background-color:rgb(3, 192, 255);
+
+            }
+            h3 {
+                font-size: 1.5em;
+                background-color:rgb(255, 0, 0);
+            }
+            div {
+                background-color:rgb(5, 255, 51);
+                border:4px dashed rgb(30, 0, 255);
+            }
+            #GI {
+                width: 38%;
+                overflow:auto;
+                height: 450px;
+                position:absolute;
+                border:6px ridge rgb(255, 33, 33);
+                padding:10px;
+                top:310px;
+            }
+            #D {
+                width:47%;
+                position:absolute;
+                top:310px;
+                left:272px;
+                height:225px;
+                border:6px ridge rgb(255, 33, 33);
+            }
+            #I2 {
+                width:46%;
+                position:absolute;
+                top:553px;
+                left:273px;
+                height:225px;
+                 border:6px ridge rgb(255, 33, 33);
+            }
+        </style>
+    <head>
+        <title>Gandhi's-Town-of-Facts.com</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+       <div>
+        <h1>Mahatma Gandhi</h1>
+        <h2 id="C">Contents:</h2>
+        <ul>
+            <li><a href="#HC">His Childhood</a></li>
+            <li><a href="#TNIC">The Natal Indian Congress</a></li>
+            <li><a href="#AOP">Awareness of Opressive Practices</a></li>
+            <li><a href="#ICP">Indian Congress and Prison</a></li>
+            <li><a href="#BAGI">British Authorities Give In</a></li>
+            <li><a href="#AI">Assassination and Imprisonment</a></li>
+            <li><a href="#HFQ"> His Famous Quotes</a></li>
+        </ul>
+        </div>
+        <img id="D"src="https://www.kasandbox.org/programming-images/landscapes/sand-dunes.png" alt="A jumping Beaver" >
+        <img id="I2"src="https://www.kasandbox.org/programming-images/landscapes/mountains-in-hawaii.png">
+        <div id="GI">
+        <h3 id="HC"> His Childhood</h3>
+        <p><li>Gandhi was born in Porbander, Gujarat, in North West India, on October the 2nd, 1869.
+<li>He was born into a Hindu Modh family, and his father was the Chief Minister of Porbander.
+<li>His mother was religiously devoted, which led to him being taught Jain pacifist teachings.
+<li>His birth name was Mohandas Karamchand Gandhi, but he is known as Mahatma Gandhi, or Great Soul.
+<li>When he was 13 Gandhi got married to Kasturba Makhanji in May 1883, In 1888 she bore him four sons at the age of 18.
+<li>When he was 18 he accepted an invitation to go to the University College London, he started there in September 1888 </p>
+            <h3 id="TNIC">The Natal Indian Congress</h3>
+            <p><li>Gandhi was determined to stick to his Hindu Principles, which made life in London restrictive, initially. After a while he found kindred spirits and flourished.
+<li>He pursued a Philosophical study of religion, he never professed any interest in religion until then.
+<li>In 1893 he returned to India to find that work was hard to come by, he accepted a year's contract to work for an Indian firm in Natal, South Africa.
+<li>He was not enshrined in law, but the apartheid system was very much evident in South Africa at the turn of the 20th century.
+<li>He lived there for 21 years and railed against Injustice of Racial Segregation, witnessing racial acts by his countrymen served as an activator for his later activism. He created a political movement known as the Natal Indian Congress, which was a non-violent civil protest group<li>He developed his theoretical belief of a non-violent civil protest into a real political stance when he opposed the introduction of registration for all Indians in South America by not cooperating with relevant civic authorities</p>
+        <h3 id="AOP">Awareness of Opressive Practices</h3>
+        <p><li>He returned to India in 1916 and developed his practice of non-violent civic disobedience even further, by raising awareness of oppressive practices in Bihar, in 1918, which saw the local populace oppressed by their largely British masters. He encourage oppressed villagers to improve their lives, leading peaceful strikes and protests.
+<li>He became widely known as Mahatma.</p>
+        <h3 id="ICP">Indian Congress and Prison</h3>
+        <p><li>In 1921 Gandhi was leading the Indian National Congress, and was reorganizing the constitution around the principle of “Swaraj” to gain India's freedom from the British. He instigated boycotts of british goods and institutions.
+<li>He was arrested on March 10th 1922, and trial on sedition charges, for which he served 2 years of a 6-year prison sentence.
+<li>The Indian National Congress began to splinter after his arrest and he became out of the public eye following his release from prison in February 1924. returning in 1928, to campaign for the granting of 'dominion status' to India by the British.
+<li>The British imposed a tax on salt, in 1930, he famously led a 250-mile march to the sea to collect his own salt. </p>
+        <h3 id="BAGI">British Authorities Give In</h3>
+        <p>Recognizing his political influence, the British authorities were forced to negotiate various settlements with Gandhi over the following years, which resulted in less poverty, granted status to the untouchables, gave rights to women, and led to Gandhi's goal of 'Swaraj.</p>
+        <h3 id="AI">Assassination and Imprisonment</h3>
+        <p><li>In 1934 on the 25th of June, he was delivering a speech in Pune with his wife, Kasturba. Traveling in a motorcade of two cars, Gandhi in the second car got delayed by a train, separating the two cars. The first car made it to the speech venue, and got blown up by a bomb that was thrown at the car, which injured several people
+<li>Gandhi was arrested again in August 1942 for 2 years. 3 months before his release his wife, Kasturba, died in the same prison.
+<li>After a 4th attempt on his life, Gandhi said at a prayer meeting, “I have not hurt anybody nor do I consider anybody to be my enemy, I can’t understand why there are so many attempts on my life. Yesterday’s attempt on my life has failed. I will not die just yet; I aim to live till the age of 125.”
+<li>He only lived for a year and a half after that.
+<li>On January 30th,1948 Nathuram Godse managed to get close enough to get 3 shots point-blank into Gandhi, his last words were claimed to be, “Hé Rām” or “Oh God”  
+<li>His last words were put on his grave where they spread his ashes.
+<li>Godse made no attempt to flee and was captured, the sentenced to death along with Narayan Apte  and they were executed in Ambala Jail, on November 15th, 1949.
+<li>His birthday is a National Holiday in India every year, on October the 2nd.
+</p>
+        <h3 id="HFQ">His Famous Quotes</h3>
+        <p><li>Happiness is when what you think, what you say, and what you do are in harmony.
+<li>The weak can never forgive. Forgiveness is the attribute of the strong.
+<li>Where there is love there is life.
+<li>Strength does not come from physical capacity. It comes from an indomitable will.
+<li>In a gentle way, you can shake the world.
+<li>Earth provides enough to satisfy every man's needs, but not every man's greed.
+<li>I will not let anyone walk through my mind with their dirty feet.
+<li>The future depends on what we do in the present.
+<li>You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty.
+<li>A man is but the product of his thoughts; what he thinks, he becomes.
+</p>
+</div>
+  <p><a href="#C">Back to Top</a></p>
+    </body>
+</html>
